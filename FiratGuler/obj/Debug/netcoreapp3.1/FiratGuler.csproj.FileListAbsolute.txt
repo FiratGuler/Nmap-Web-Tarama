@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\bin\Debug\netcoreapp3.1\FiratGuler.exe
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\bin\Debug\netcoreapp3.1\FiratGuler.deps.json
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\bin\Debug\netcoreapp3.1\FiratGuler.runtimeconfig.json
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\bin\Debug\netcoreapp3.1\FiratGuler.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\bin\Debug\netcoreapp3.1\FiratGuler.dll
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\bin\Debug\netcoreapp3.1\FiratGuler.pdb
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\obj\Debug\netcoreapp3.1\FiratGuler.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\obj\Debug\netcoreapp3.1\FiratGuler.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\obj\Debug\netcoreapp3.1\FiratGuler.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\obj\Debug\netcoreapp3.1\FiratGuler.dll
+C:\Users\CANBERK\source\repos\FiratGuler\FiratGuler\obj\Debug\netcoreapp3.1\FiratGuler.pdb
